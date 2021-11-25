@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Statistics, University of California, Los Angeles, June 2021 
+* Ph.D in Statistics, University of California, Berkeley, August 2021 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Undergraduate/Graduate Student Researcher
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Los Alamos National Laboratory, June 2016 - Present
+
+  * Utilized Bayesian Multivariate Adaptive Regression Splines (BMARS) to develop a robust model with non-Gaussian likelihoods (R Package [TBASS](https://github.com/aashen12/TBASS), 2020).
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Forecasting spread of mosquito-borne diseases using Hawkes point process models and other spatial methods.
+  
+## Undergraduate Student Researcher, August 2020 - July 2021
+
+### UCLA Department of Statistics
+
+  * Used Hawkes and recursive Hawkes point process models to forecast Ebola spread in the Democratic Republic of the Congo. Advised by Professor [Rick Schoenberg](http://www.stat.ucla.edu/~frederic/).
+
+
 
 Publications
 ======
@@ -53,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

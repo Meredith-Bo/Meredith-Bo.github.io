@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found [here](../files/cv.pdf).
+My CV can be found [here](../files/cv.pdf){:target="_blank"}.
 
 *Last updated: November 2021*.

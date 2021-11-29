@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You may read my CV [here](files/cv.pdf).
+You may read my CV [here](../files/cv.pdf).

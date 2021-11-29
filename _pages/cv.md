@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You may read my CV [here](../files/cv.pdf).
+My CV can be found [here](../files/cv.pdf).
+
+*Last updated: November 2021*.

@@ -10,7 +10,7 @@ location: "City, Country"
 
 
 - **Fall 2020** 
-  - Statistics 20: *Probability and Mathematical Statistics* with [Weiping Zhang](http://staff.ustc.edu.cn/~zwp/).
+  - *Probability and Mathematical Statistics* with [Weiping Zhang](http://staff.ustc.edu.cn/~zwp/).
 
 
   

@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Andy Shen.
 
-I am a first-year PhD student in Statistics at **[UC Berkeley](https://statistics.berkeley.edu/){:target="_blank"}**. My research interests are in applied statistics, specifically related to the biological and medical sciences.
+I am a first-year PhD student in Statistics at **[UC Berkeley](https://statistics.berkeley.edu/){:target="_blank"}** working with **[Haiyan Huang](https://www.stat.berkeley.edu/~hhuang/){:target="_blank"}** and **[Peter Bickel](https://bickel.stat.berkeley.edu/){:target="_blank"}**. My research interests are in applied statistics, specifically related to the biological and medical sciences.
 
 
 I graduated from **[UCLA](http://statistics.ucla.edu/){:target="_blank"}** in June 2021 with my B.Sc. in Statistics. I was very fortunate to have been advised by **[Rick Schoenberg](http://www.stat.ucla.edu/~frederic/){:target="_blank"}** and **[Peter Katona](https://ph.ucla.edu/faculty/katona){:target="_blank"}**. 

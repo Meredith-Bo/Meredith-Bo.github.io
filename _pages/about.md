@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Andy Shen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,4 +21,4 @@ My previous research projects have consisted around developing statistical model
 
 
 
-Thank you for visiting my page. Please do not hesitate to contact me at any time. My email is *aashen AT berkeley DOT edu*.
+Thank you for visiting my page. My email is *aashen AT berkeley DOT edu* if you would like to connect.

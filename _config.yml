@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andy Shen"
+  name             : "Xiaolin Bo"
   avatar           : "profilepic.png"
-  bio              : "PhD Student in Statistics"
-  location         : "UC Berkeley"
+  bio              : "Graduate Student in Statistics"
+  location         : "USTC"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5GYeqKgAAAAJ&hl=en&authuser=1"
-  email            : "aashen@berkeley.edu"
+  email            : "boxl@mail.ustc.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,12 +94,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aashen12"
+  github           : "Meredith-Bo"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "shen-andy"
   pinterest        :
   soundcloud       :
   steam            :

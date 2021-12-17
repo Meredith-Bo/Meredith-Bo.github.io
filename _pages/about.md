@@ -18,4 +18,4 @@ My previous research projects have consisted around developing statistical model
 
 
 
-Thank you for visiting my page. My email is *boxl AT mail DOT ustc DOT edu DOT cn* if you would like to connect.
+Thank you for visiting my page. My email is *boxl@mail.ustc.edu.cn* if you would like to connect.

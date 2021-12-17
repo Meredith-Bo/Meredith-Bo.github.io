@@ -1,7 +1,6 @@
 ---
 title: "Subgroup Analysis for Longitudinal data via Semiparametric Additive Mixed Effect Model"
 collection: publications
-permalink: /publications/longsub
 excerpt: ''
 date: 2021-12-01
 venue: 'Submitted'

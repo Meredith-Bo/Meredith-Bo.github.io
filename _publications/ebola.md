@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/longsub
 excerpt: ''
 date: 2021-12-01
-venue: 'Journal of Forecasting'
+venue: 'Submitted'
 paperurl: 'https://arxiv.org/abs/2112.00453'
 ---
 

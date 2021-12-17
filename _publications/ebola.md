@@ -1,9 +1,9 @@
 ---
-title: "Comparison of prospective Hawkes and recursive point process models for Ebola in DRC"
+title: "Subgroup Analysis for Longitudinal data via Semiparametric Additive Mixed Effect Model"
 collection: publications
 permalink: /publications/longsub
 excerpt: ''
-date: 2021-07-22
+date: 2021-12-01
 venue: 'Journal of Forecasting'
 paperurl: 'https://arxiv.org/abs/2112.00453'
 ---

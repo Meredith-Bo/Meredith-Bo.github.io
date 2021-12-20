@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Life"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-My CV can be found [here](../files/Shen_CV.pdf){:target="_blank"}.
+ ![image](https://github.com/Meredith-Bo/meredith-bo.github.io/blob/master/images/nus1.jpeg?raw=true)
 
-*Last updated November 2021*.
